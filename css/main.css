@@ -124,7 +124,7 @@ text-overflow: ellipsis;
     display: none;
 }
 .visible{
-    display: block;
+    display: inherit;
     opacity: 1;
     
 }
